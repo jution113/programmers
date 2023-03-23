@@ -14,6 +14,7 @@ class Solution {
                 answer[i] = num1 - num2 == num3 ? "O" : "X";
             }
         }
+     
         
         return answer;
     }
